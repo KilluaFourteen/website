@@ -1,6 +1,5 @@
 # Killua Fourteen
 
-**Thanks to [LoL-Human]
-(https://github.com/LoL-Human/LoLHuman)**
+**Thanks to LoL-Human**
 
 **Thanks to [indrijunanda](https://github.com/indrijunanda/RuangAdmin)**
